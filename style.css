@@ -224,20 +224,23 @@ span{
     }
 }
 @keyframes words {
-    0%, 20% {
+    0%, 16% {
         content: "Museum Educator";
     }
-    21%, 40% {
+    17%, 33% {
         content: "Historical Researcher";
     }
-    41%, 60% {
+    34%, 50% {
         content: "Exhibition Curator";
     }
-    61%, 80% {
-        content: "Cultural Heritage Specialist";
+    51%, 67% {
+        content: "Social Media Organizer";
     }
-    81%, 100% {
-        content: "Public Educator";
+    68%, 83% {
+        content: "Event Organizer";
+    }
+    84%, 100% {
+        content: "Public Relations";
     }
 }
 
